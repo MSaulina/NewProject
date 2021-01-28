@@ -1,2 +1,2 @@
-# NewProject 1
+# NewProject
 Мой первый проект
